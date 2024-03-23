@@ -15,10 +15,8 @@ a {
 .visually-hidden {
     clip: rect(0 0 0 0);
     clip-path: inset(50%);
-    height: 1px;
     overflow: hidden;
     white-space: nowrap;
-    width: 1px;
 }
 
 .header-logo {
@@ -81,6 +79,7 @@ a {
     font-size: 56px;
     line-height: 1.07;
     letter-spacing: 0.02em;
+    text-align: center;
     color: #fff;
 }
 
@@ -126,6 +125,7 @@ a {
     line-height: 1.11;
     letter-spacing: 0.02em;
     text-transform: capitalize;
+    text-align: center;
     color: #2e2f42;
 }
 
@@ -138,6 +138,7 @@ a {
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
+    text-align: center;
     color: #2e2f42;
 }
 
@@ -145,6 +146,7 @@ a {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
+    text-align: center;
 }
 
 .portfolio-title {
@@ -152,6 +154,7 @@ a {
     line-height: 1.11;
     letter-spacing: 0.02em;
     text-transform: capitalize;
+    text-align: center;
     color: #2e2f42;
 }
 
